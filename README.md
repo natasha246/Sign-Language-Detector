@@ -3,6 +3,7 @@ README.md
 This project uses live webcam footage to detect sign language hand gestures made by the user, then identifies and displays the corresponding letter in real time. 
 
 ## DEMO
+![Demo Animation](assets/demo.gif)
 
 ## Built With
 - Python3 3.9.6
